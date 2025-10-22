@@ -170,7 +170,7 @@ class MainMenu extends StatelessWidget {
                 FoodCard(
                   color: Color(0xFFF6B100),
                   image: 'assets/images/nasi-goreng.png',
-                  title: 'Nasi Goreng Seafood\nPedas Manis',
+                  title: 'Nasi Goreng Seafood\nKhas Malang',
                   rating: 4,
                   time: '5 Min',
                 ),
